@@ -13,6 +13,7 @@ This repository contains practical scripts used in our lab for:
 Everything is open source and intended to encourage collaboration and reuse.
 
 ## 📁 Structure
+```
 Deltalab-Tools/
 │
 ├── microbiology/           # Scripts for microbiological analyses
@@ -24,6 +25,7 @@ Deltalab-Tools/
 ├── LICENSE                 # MIT license
 ├── README.md               # Main repository overview
 └── .gitignore              # Git ignore rules
+```
 
 ## 🚀 Usage
 
