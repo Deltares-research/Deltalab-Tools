@@ -15,33 +15,15 @@ Everything is open source and intended to encourage collaboration and reuse.
 ## 📁 Structure
 Deltalab-Tools/
 │
-├── microbiology/           # Scripts specifiek voor microbiologische analyses
-│   ├── README.md           # Uitleg over inhoud en gebruik
-│   └── ...                 # Scripts zoals DNA-analyse, kweekdata, etc.
-│
-├── chemistry/              # Scripts voor chemische metingen en verwerking
-│   ├── README.md
-│   └── ...                 # Scripts zoals spectrofotometrie, titraties, etc.
-│
-├── physics/                # (optioneel) Scripts voor fysische labmetingen
-│   ├── README.md
-│   └── ...
-│
-├── utils/                  # Algemene hulpmiddelen, zoals dataconversie of logging
-│   ├── README.md
-│   └── ...
-│
-├── docs/                   # Documentatie, protocollen, uitleg
-│   ├── lab_manual.md
-│   ├── data_format.md
-│   └── ...
-│
-├── tests/                  # Testscripts voor validatie van tools
-│   └── ...
-│
-├── LICENSE                 # MIT-licentie
-├── README.md               # Hoofduitleg van de repository
-└── .gitignore              # Git-ignore bestand
+├── microbiology/           # Scripts for microbiological analyses
+├── chemistry/              # Scripts for chemical measurements
+├── physics/                # (optional) Scripts for physical lab measurements
+├── utils/                  # General-purpose tools and helpers
+├── docs/                   # Documentation and lab protocols
+├── tests/                  # Scripts for testing and validation
+├── LICENSE                 # MIT license
+├── README.md               # Main repository overview
+└── .gitignore              # Git ignore rules
 
 ## 🚀 Usage
 
